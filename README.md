@@ -24,7 +24,7 @@ The packge contains only the necessary files to be imported in your project.
 When importing, a `animated-flag` group is created in the root of your project. Move it to a location that fits your project best.
 
 
-Find the documentation in the [Wiki](https://github.com/Grisgram/gml-outline-shader-drawer/wiki).
+Find the documentation in the [Wiki](https://github.com/Grisgram/gml-animated-flag/wiki).
 
 License: MIT (Contained in the repository)
 
