@@ -1,8 +1,8 @@
 {
   "resources": [
-    {"id":{"name":"sprDefaultChuckFlag","path":"sprites/sprDefaultChuckFlag/sprDefaultChuckFlag.yy",},"order":1,},
     {"id":{"name":"sprPole","path":"sprites/sprPole/sprPole.yy",},"order":2,},
     {"id":{"name":"sprBuilding","path":"sprites/sprBuilding/sprBuilding.yy",},"order":1,},
+    {"id":{"name":"sprDefaultFlag","path":"sprites/sprDefaultFlag/sprDefaultFlag.yy",},"order":2,},
     {"id":{"name":"AnimatedFlag","path":"objects/AnimatedFlag/AnimatedFlag.yy",},"order":0,},
     {"id":{"name":"rmDemo","path":"rooms/rmDemo/rmDemo.yy",},"order":0,},
   ],

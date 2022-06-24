@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sprDefaultChuckFlag",
-    "path": "sprites/sprDefaultChuckFlag/sprDefaultChuckFlag.yy",
+    "name": "sprDefaultFlag",
+    "path": "sprites/sprDefaultFlag/sprDefaultFlag.yy",
   },
   "solid": false,
   "visible": true,
