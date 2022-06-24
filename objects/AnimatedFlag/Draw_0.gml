@@ -10,10 +10,10 @@ for (i = 0; i <= running_vertices; i++) {
     wave_offset		= wave_height * vertex_index;
 	
 	// vertext drawing positions
-    vertex_x		= x + scale_x * width * vertex_index;
+    vertex_x		= x - sprite_xoffset + scale_x * width * vertex_index;
     start_vertex_x	= vertex_x + sin(vertex_offset) * wave_offset;
     end_vertex_x	= vertex_x + cos(vertex_offset) * wave_offset;
-    vertex_y		= y + scale_y * sin(vertex_offset) * wave_offset;
+    vertex_y		= y - sprite_yoffset + scale_y * sin(vertex_offset) * wave_offset;
     draw_width		= vertex_index * texture_width;
 	
 	// determine vertex color
