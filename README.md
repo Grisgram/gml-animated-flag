@@ -31,7 +31,7 @@ License: MIT (Contained in the repository)
 
 Authors: [Grisgram](https://github.com/Grisgram) and [trueDev](https://marketplace.yoyogames.com/publishers/3641/truedev)
 
-If you like what you see, ✨ the repository and consider following me. The more reach the libraries get, the better they can evolve!<br/>
+If you like what you see, ⭐ the repository and consider following me. The more reach the libraries get, the better they can evolve!<br/>
 Thank you!
 
 Gris.
