@@ -1,6 +1,6 @@
 # Animated Flag
 <p align="center"><img src="https://user-images.githubusercontent.com/19487451/168004734-0df42512-bab4-499c-a0ea-8b3f773b92ad.gif" style="display:block; margin:auto; width:619px"></p><br/>
-<h1 align="center">🔹🔷 1️⃣.2️⃣ 🔷🔹</h1>
+<h1 align="center">🔹🔷 VERSION 1️⃣.3️⃣ 🔷🔹</h1>
 
 ![image](https://user-images.githubusercontent.com/19487451/167885369-a5ae0b14-9176-4429-babd-2a140ab5880a.png) <br>&nbsp;&nbsp;Studio 2.3+
 
