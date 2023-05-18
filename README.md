@@ -2,9 +2,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/19487451/168004734-0df42512-bab4-499c-a0ea-8b3f773b92ad.gif" style="display:block; margin:auto; width:619px"></p><br/>
 <h1 align="center">🔹🔷 VERSION 1️⃣.3️⃣ 🔷🔹</h1>
 
-![image](https://user-images.githubusercontent.com/19487451/167885369-a5ae0b14-9176-4429-babd-2a140ab5880a.png) <br>&nbsp;&nbsp;Studio 2.3+
-
-Welcome to the `animated-flag` repository!
+### Welcome to the `animated-flag` for **GameMaker Studio 2.3+** repository!
 
 This vertex-animated object is based on an original version by [trueDev](https://marketplace.yoyogames.com/publishers/3641/truedev) (YoYoGames Marketplace Publisher Link). trueDev allowed me to republish the enhanced version as OpenSource -- credits to `trueDev` for their original version!
 
