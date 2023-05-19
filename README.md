@@ -1,6 +1,6 @@
 # Animated Flag
 <p align="center"><img src="https://user-images.githubusercontent.com/19487451/168004734-0df42512-bab4-499c-a0ea-8b3f773b92ad.gif" style="display:block; margin:auto; width:619px"></p><br/>
-<h1 align="center">🔹🔷 VERSION 1️⃣.3️⃣ 🔷🔹</h1>
+<h1 align="center">1️⃣.3️⃣</h1>
 
 ### Welcome to the `animated-flag` for **GameMaker Studio 2.3+** repository!
 
