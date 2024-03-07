@@ -1,6 +1,6 @@
 {
-  "FolderOrderSettings": [],
-  "ResourceOrderSettings": [
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
     {"name":"_GML_ANIMATED_FLAG_VERSION_","order":3,"path":"scripts/_GML_ANIMATED_FLAG_VERSION_/_GML_ANIMATED_FLAG_VERSION_.yy",},
     {"name":"sprPole","order":2,"path":"sprites/sprPole/sprPole.yy",},
     {"name":"sprBuilding","order":1,"path":"sprites/sprBuilding/sprBuilding.yy",},

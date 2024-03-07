@@ -1,26 +1,26 @@
 {
-  "resourceType": "GMProject",
-  "resourceVersion": "1.7",
-  "name": "gml-animated-flag",
-  "AudioGroups": [
-    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  "$GMProject":"",
+  "%Name":"gml-animated-flag",
+  "AudioGroups":[
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
-  "configs": {
-    "children": [],
-    "name": "Default",
+  "configs":{
+    "children":[],
+    "name":"Default",
   },
-  "defaultScriptType": 1,
-  "Folders": [
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"demo","folderPath":"folders/demo.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"gml-animated-flag","folderPath":"folders/gml-animated-flag.yy",},
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"demo","folderPath":"folders/demo.yy","name":"demo","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"gml-animated-flag","folderPath":"folders/gml-animated-flag.yy","name":"gml-animated-flag","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
-  "IncludedFiles": [],
-  "isEcma": false,
-  "LibraryEmitters": [],
-  "MetaData": {
-    "IDEVersion": "2023.11.1.129",
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2023.11.1.129",
   },
-  "resources": [
+  "name":"gml-animated-flag",
+  "resources":[
     {"id":{"name":"_GML_ANIMATED_FLAG_VERSION_","path":"scripts/_GML_ANIMATED_FLAG_VERSION_/_GML_ANIMATED_FLAG_VERSION_.yy",},},
     {"id":{"name":"sprPole","path":"sprites/sprPole/sprPole.yy",},},
     {"id":{"name":"sprBuilding","path":"sprites/sprBuilding/sprBuilding.yy",},},
@@ -28,11 +28,13 @@
     {"id":{"name":"AnimatedFlag","path":"objects/AnimatedFlag/AnimatedFlag.yy",},},
     {"id":{"name":"rmDemo","path":"rooms/rmDemo/rmDemo.yy",},},
   ],
-  "RoomOrderNodes": [
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
     {"roomId":{"name":"rmDemo","path":"rooms/rmDemo/rmDemo.yy",},},
   ],
-  "templateType": null,
-  "TextureGroups": [
-    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  "templateType":null,
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
   ],
 }
