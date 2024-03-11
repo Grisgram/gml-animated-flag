@@ -10,8 +10,8 @@
   },
   "defaultScriptType":1,
   "Folders":[
-    {"$GMFolder":"","%Name":"gml-animated-flag","folderPath":"folders/gml-animated-flag.yy","name":"gml-animated-flag","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"demo","folderPath":"folders/demo.yy","name":"demo","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"gml-animated-flag","folderPath":"folders/gml-animated-flag.yy","name":"gml-animated-flag","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "IncludedFiles":[],
   "isEcma":false,
